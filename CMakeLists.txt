@@ -19,4 +19,7 @@ endif(CCACHE_FOUND)
 # ===========================================================================
 # =========================== 添加子目录  ====================================
 # ===========================================================================
-add_subdirectory(00_TEST_ENV)
+add_subdirectory(TEST_ENV)
+add_subdirectory(01_C_Programming)
+add_subdirectory(03_CPP)
+add_subdirectory(04_Data_Structure)
